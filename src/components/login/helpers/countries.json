@@ -1,0 +1,9 @@
+{
+    "contry": [{
+        "value": "UNITED STATE",
+        "label": "United State"
+    }, {
+        "value": "UNITED KINGDOM",
+        "label": "United Kingdom"
+    }]
+}
